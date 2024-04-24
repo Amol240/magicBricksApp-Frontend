@@ -102,11 +102,3 @@ const AgentsCards = () => {
 
 export default AgentsCards;
 
-{
-  /*
-                    <CardTitle tag="h5">{item.area}</CardTitle>
-                    <CardText>
-                      {item.price} | {item.city}
-                    </CardText>
-                    <CardText>{item.address}</CardText> */
-}
